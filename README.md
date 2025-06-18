@@ -15,6 +15,7 @@ A secure, face recognition–based voting system built using Python, OpenCV, and
 - **Language:** Python
 - **Libraries:** OpenCV, NumPy, scikit-learn (KNN), Pickle, CSV, win32com (SAPI), OS
 ---
+![Image](https://github.com/user-attachments/assets/1439702c-ad0d-41cd-ad1c-20f41f74dc8a)
 ## 📁 Project Structure
 ```bash
 .
@@ -26,4 +27,3 @@ A secure, face recognition–based voting system built using Python, OpenCV, and
 ├── requirements.txt        # List of Python dependencies
 ├── README.md               # Project documentation (this file)
 
-![Image](https://github.com/user-attachments/assets/1439702c-ad0d-41cd-ad1c-20f41f74dc8a)
