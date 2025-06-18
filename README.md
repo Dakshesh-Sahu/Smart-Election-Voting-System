@@ -25,3 +25,5 @@ A secure, face recognition–based voting system built using Python, OpenCV, and
 ├── background.png          # Background image used for the OpenCV-based UI
 ├── requirements.txt        # List of Python dependencies
 ├── README.md               # Project documentation (this file)
+
+![Sample](https://github.com/user-attachments/assets/8a111df8-9da5-4bb8-95ae-c12def4986b4)
